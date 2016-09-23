@@ -1,3 +1,11 @@
-header {
-  
+.ily{
+  float: right;
+}
+
+body{
+  background:#007AA3;
+}
+
+header{
+  background: white;
 }
