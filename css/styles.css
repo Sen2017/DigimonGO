@@ -2,10 +2,13 @@
   float: right;
 }
 
-body{
-  background:#007AA3;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-header{
-  background: white;
+li {
+  display: inline;
 }
+
