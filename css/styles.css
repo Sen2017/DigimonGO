@@ -1,5 +1,6 @@
 .ily{
   float: right;
+  padding: 20px;
 }
 
 ul {
@@ -8,7 +9,41 @@ ul {
   padding: 0;
 }
 
-li {
-  display: inline;
+.menu {
+  float: right;
+  list-style: none;
 }
 
+.menu ul li {
+  display: inline-block;
+}
+
+.hero {
+  padding: 10px;
+  border: 1px-solid-#000;
+  height: 500px;
+  background-image:url(../assets/hero.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: navy;
+}
+
+.container {
+  border-radius: 8px;
+  background-color: white;
+  width: 450px;
+  height: 300px;
+  padding: 25px;
+  float: left;
+}
+
+.talkie {
+  width: 75px;
+  height: 75px;
+  float: right;
+}
+
+.ottah_box {
+  float: left;
+  padding: 15px;
+}
